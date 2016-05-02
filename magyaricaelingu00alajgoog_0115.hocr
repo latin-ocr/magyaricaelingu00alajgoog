@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./magyaricaelingu00alajgoog_0115.png"; bbox 0 0 884 1367; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 384 955 721 1058">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 384 955 721 1058">
+     <span class='ocr_line' id='line_1_1' title="bbox 474 955 721 982; baseline -0.018 -1.648"><span class='ocrx_word' id='word_1_1' title='bbox 474 955 567 980; x_wconf 56' lang='lat' dir='ltr'>&#39;llffllk</span> <span class='ocrx_word' id='word_1_2' title='bbox 572 955 624 977; x_wconf 75' lang='lat' dir='ltr'>-Vide</span> <span class='ocrx_word' id='word_1_3' title='bbox 633 955 721 982; x_wconf 67' lang='lat' dir='ltr'>tog-mi..</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 473 981 647 1006; baseline 0 -4"><span class='ocrx_word' id='word_1_4' title='bbox 473 995 489 1006; x_wconf 27' lang='lat'>‚⁷</span> <span class='ocrx_word' id='word_1_5' title='bbox 493 981 527 1003; x_wconf 71' lang='lat' dir='ltr'>du</span> <span class='ocrx_word' id='word_1_6' title='bbox 535 982 647 1003; x_wconf 63' lang='lat' dir='ltr'>§ch-mian</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 384 1007 713 1058; baseline -0.003 -3"><span class='ocrx_word' id='word_1_7' title='bbox 384 1007 713 1058; x_wconf 48' lang='lat' dir='ltr'>fflffsssssssstrss&#39;d’ffl:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 791 657 794 1298">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 791 657 794 1298">
+     <span class='ocr_line' id='line_1_4' title="bbox 791 657 794 1298; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 791 657 794 1298; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 86 34 797 1334">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 86 34 797 1334">
+     <span class='ocr_line' id='line_1_5' title="bbox 86 34 797 1334; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 86 34 797 1334; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
